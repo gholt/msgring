@@ -9,6 +9,8 @@ in the ring.
 
 See github.com/gholt/ring for more information on the ring code itself.
 
+[API Documentation](http://godoc.org/github.com/gholt/msgring)  
+
 This is the latest development area for the package.  
 Eventually a stable version of the package will be established but, for now,
 all things about this package are subject to change.
