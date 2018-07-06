@@ -4,7 +4,7 @@ import (
 	"io"
 	"time"
 
-	"github.com/gholt/ring"
+	ring "github.com/gholt/devicering"
 )
 
 // MsgRing will send and receive Msg instances to and from ring nodes. See

@@ -8,7 +8,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/gholt/ring"
+	ring "github.com/gholt/devicering"
 )
 
 /* TODO: Need to rework tests

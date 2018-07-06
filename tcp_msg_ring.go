@@ -17,7 +17,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/gholt/ring"
+	ring "github.com/gholt/devicering"
 )
 
 type LogFunc func(format string, v ...interface{})
